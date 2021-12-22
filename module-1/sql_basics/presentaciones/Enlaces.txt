@@ -1,0 +1,76 @@
+Slide 6. Reglas formales de base de datos
+	https://en.wikipedia.org/wiki/Database_normalization
+	https://towardsdatascience.com/a-complete-guide-to-database-normalization-in-sql-6b16544deb0
+	https://docs.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description
+		
+Slide 7. Modelado de base de datos		
+	https://community.idera.com/database-tools/blog/b/community_blog/posts/types-of-data-model-conceptual-logical-physical
+	
+Slide 11. Instrucciones DDL
+	Create Table (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/statements/create-table-transact-sql?view=sql-server-ver15
+	Alter Table (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-table-transact-sql?view=sql-server-ver15
+	Drop Table (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/statements/drop-table-transact-sql?view=sql-server-ver15
+	
+Slide 12. Instrucciones DML
+	Insert (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/statements/insert-transact-sql?view=sql-server-ver15
+	Update (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/queries/update-transact-sql?view=sql-server-ver15
+	Delete (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/statements/delete-transact-sql?view=sql-server-ver15
+	Merge (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/statements/merge-transact-sql?view=sql-server-ver15
+	
+Slide 16. Instrucciones DML
+	Select (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql?view=sql-server-ver15
+	
+Slide 19. Joins
+	(SQL Server): https://docs.microsoft.com/en-us/sql/relational-databases/performance/joins?view=sql-server-ver15
+	
+Slide 24. Set Operators
+	Union (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/language-elements/set-operators-union-transact-sql?view=sql-server-ver15
+	Except & Intersect (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/language-elements/set-operators-except-and-intersect-transact-sql?view=sql-server-ver15
+	
+Slide 25 - Order
+	Order by (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/queries/select-order-by-clause-transact-sql?view=sql-server-ver15
+	
+Slide 28 - Where
+	where (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/queries/where-transact-sql?view=sql-server-ver15
+	
+Slide 29 - Subqueries
+	Subqueries (SQL Server): https://docs.microsoft.com/en-us/sql/relational-databases/performance/subqueries?view=sql-server-ver15
+	
+Slide 33 - Common Table Expressions
+	CTE (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/queries/with-common-table-expression-transact-sql?view=sql-server-ver15
+	
+Slide 36 - Cloud Computing
+	Cloud Computing Intro (Azure): https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
+	
+Slide 51 - Data Warehouse
+	What is a DWH (AWS): https://aws.amazon.com/data-warehouse/
+	
+Slide 52 - Kimball vs Inmon
+	Kimball vs Inmon: https://www.keboola.com/blog/kimball-vs-inmon
+	
+Slide 53 - Modelado dimensional
+	Dimensional Modeling Tehcniques (Kimball): https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/
+	
+Slide 52 - Hechos y dimensiones
+	Dimension and facts in terms of data warehousing: https://www.mozartdata.com/post/dimensions-and-facts-in-terms-of-data-warehousing
+	
+Slide 56 - Group by
+	Group by (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/queries/select-group-by-transact-sql?view=sql-server-ver15
+	
+Slide 57 - Agregaciones
+	Aggregate Functions (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/functions/aggregate-functions-transact-sql?view=sql-server-ver15
+	
+Slide 59 - Having
+	Having (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/queries/select-having-transact-sql?view=sql-server-ver15
+	
+Slide 66 - Over
+	Over (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/queries/select-over-clause-transact-sql?view=sql-server-ver15
+	
+Slide 65 - Aggregate Window Functions
+	Aggregate Window Functions (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/functions/aggregate-functions-transact-sql?view=sql-server-ver15
+	
+Slide 66 - Ranking Window Functions
+	Ranking Window Functions (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/functions/ranking-functions-transact-sql?view=sql-server-ver15
+	
+Slide 67 - Analytical Window Functions
+	Analytical Window Functions (SQL Server): https://docs.microsoft.com/en-us/sql/t-sql/functions/analytic-functions-transact-sql?view=sql-server-ver15
